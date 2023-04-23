@@ -1,0 +1,5 @@
+1;lody;12
+2;cheesburger;10
+3;cola;4
+4;hamburger;12
+5;pizza;20
